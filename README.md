@@ -7,6 +7,6 @@
 - Tự chấm Đúng/Sai, có chế độ ẩn chữ Hán, tìm kiếm theo chữ Hán, phiên âm hoặc nghĩa
 - Cài được lên điện thoại và máy tính (PWA), dùng được khi không có mạng
 
-**Mở app:** https://zerotoheroenglish.github.io/luyen-hsk/
+**Mở app:** https://zerotoheroenglish.github.io/Luyen-HSK/
 
 Nguồn danh sách từ: [complete-hsk-vocabulary](https://github.com/drkameleon/complete-hsk-vocabulary). Nghĩa tiếng Việt được biên soạn ngắn gọn để ôn tập.
